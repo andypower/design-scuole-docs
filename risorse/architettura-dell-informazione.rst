@@ -15,7 +15,7 @@ L’architettura dell’informazione definisce e organizza i contenuti all’int
 A completamento di queste quattro sezioni, il nuovo modello propone un’area riservata, dove il personale scolastico (docenti e personale ATA) può gestire e aggiornare i contenuti di propria pertinenza e usare alcuni semplici servizi online, come la ricezione di circolari che vengono notificate attraverso il sito e per email ai destinatari. Attraverso collegamenti indicati chiaramente, è possibile accedere ad altre piattaforme e servizi ad accesso riservato, come il registro elettronico.
 
 
-Val al documento di architettura dell’informazione (`Versione ODS 62KB <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_, Versione XLSX 892KB <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.xlsx>`_)
+Val al documento di architettura dell’informazione (`Versione ODS 62KB <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_, `Versione XLSX 892KB <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.xlsx>`_)
 
 `Vai alla rappresentazione grafica dell'architettura dell'informazione (PDF 27KB) <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Alberatura-ModelloScuole-DesignersItalia.pdf>`_
 
