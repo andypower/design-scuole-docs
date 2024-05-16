@@ -17,9 +17,13 @@ La tabella seguente raccoglie tutti i documenti tecnici relativi al progetto e l
      - Collegamento
 
 
-   * - Documento di Architettura dell'informazione
-     - ODS,337KB
+   * - Documento di Architettura dell'informazione - Versione ODS
+     - ODS, 62KB
      - `Scarica <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.ods>`_
+
+   * - Documento di Architettura dell'informazione - Versione XLSX
+     - XLSX, 892KB
+     - `Scarica <https://designers.italia.it/files/resources/modelli/scuole/adotta-il-modello-di-sito-scolastico/definisci-architettura-e-contenuti/Architettura-informazione-sito-scuole.xlsx>`_
 
    * - Grafico dell'alberatura del sito scolastico
      - PDF, 27KB
